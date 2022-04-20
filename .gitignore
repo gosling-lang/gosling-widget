@@ -1,0 +1,15 @@
+__pycache__/
+
+*.egg-info/
+.eggs/*
+
+.ipynb_checkpoints/
+
+node_modules/
+
+gosling_widget/nbextension/index.js
+gosling_widget/labextension/package.json
+gosling_widget/labextension/static/*
+
+dist/
+dist-python/
