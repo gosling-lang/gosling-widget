@@ -35,10 +35,6 @@
   },
   "dependencies": {
     "generic-filehandle": "^2.2.1",
-    "gosling.js": "^0.9.16",
-    "higlass": "^1.11.9",
-    "pixi.js": "^6.2.2",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "gosling.js": "^0.9.16"
   }
 }
