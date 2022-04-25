@@ -36,8 +36,7 @@ jupyter labextension develop --overwrite gosling_widget
 
 ### Release
 
-```
-npm version [major|minor|patch]
-git tag -a vX.X.X -m "vX.X.X"
+```bash
+npm version [major|minor|patch] # should automatically create git tag "vX.X.X"
 git push --follow-tags
 ```
