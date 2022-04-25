@@ -32,7 +32,7 @@ export default function(base) {
 
 		async render() {
 			let viewconf = JSON.parse(this.model.get("_viewconf"));
-			let api = await gosling.embed(this.el, viewconf, {});
+			let api = await gosling.embed(this.el, viewconf, { padding: 0 });
 			console.log(api);
 
 			this.model.on('msg:custom', msg => {
