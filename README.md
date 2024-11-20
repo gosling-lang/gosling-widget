@@ -1,3 +1,6 @@
+> [!WARNING]
+> The `GoslingWidget` is now an [anywidget](https://github.com/manzt/anywidget) and lives in the `gosling-lang/gos` repo.
+
 # gosling-widget
 
 [![PyPI](https://img.shields.io/pypi/v/gosling-widget.svg?color=green)](https://pypi.org/project/gosling-widget)
