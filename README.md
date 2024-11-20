@@ -1,5 +1,5 @@
 > [!WARNING]
-> The `GoslingWidget` is now an [anywidget](https://github.com/manzt/anywidget) and lives in the `gosling-lang/gos` repo.
+> The `GoslingWidget` is now an [anywidget](https://github.com/manzt/anywidget) and lives in the [`gosling-lang/gos`](https://github.com/gosling-lang/gos) repo.
 
 # gosling-widget
 
